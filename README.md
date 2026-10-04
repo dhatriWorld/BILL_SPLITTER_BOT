@@ -4,6 +4,8 @@ Snap a photo of a bill, and SplitBot reads every item, tax and the total, then s
 
 Built with Google Gemini (vision + chat) and the Telegram Bot API.
 
+Deployed link : https://billsplitterbot-kbfuwhoi5jerchfp738amn.streamlit.app/
+
 ✨ Features
 📸 Receipt reading from a photo: extracts item names, quantities, line amounts, subtotal, taxes (GST/VAT), service charge, discounts, tip and grand total.
 ✅ Math verification: checks that the items add up to the subtotal and that the subtotal plus charges matches the grand total. Mismatches are flagged, not silently fixed.
